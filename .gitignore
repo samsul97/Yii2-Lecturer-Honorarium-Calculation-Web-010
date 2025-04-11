@@ -1,0 +1,13 @@
+# Yii2 basic template
+/vendor/
+/runtime/
+/web/assets/
+/tests/_output/
+/tests/_support/_generated/
+.env
+/.env.local
+/.idea/
+/.DS_Store
+composer.lock
+npm-debug.log
+yarn-error.log
